@@ -8,7 +8,7 @@ class App extends Component {
         return ( 
             <div>
             <Navigation logoTitle ="React Portfolio"/>
-            <Header title="Welcome"/>
+            <Header title="Deserts" button="Find Out More"/>
             </div>
 
          );

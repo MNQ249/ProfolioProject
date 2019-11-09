@@ -1,6 +1,6 @@
 header{
     background: url('./img/image1')no-repeat;
-    height: 80vh;
+    height: 70vh;
     background-size: cover;
     margin: 0 auto;
     text-align: center;
@@ -11,7 +11,25 @@ header{
 
 header h1{
     margin: 0;
+
     font-size: 4rem;
     /* color: rgba(212, 183, 54); */
-    color:rgb(00, 00, 00);
+    color:rgb(00, 00, 00,0.6);
+}
+
+header p{
+    font-weight: 700;
+    font-size: 1.75rem;
+    
+}
+
+header a{
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+    font-weight: 700;
+    background-color: #dab360;
+    border-color: #dab360;
+    color:#ffffff;
+    padding: 1.25rem 2.5rem;
+    text-decoration: none;
+    display: inline-block;
 }

@@ -2,14 +2,15 @@
 nav{
     display: flex;
     justify-content: space-between;
-    background-color: #1d809f;
+    background-color: #dab360;
     align-items: center;
     padding-right: 20px;
     padding-left: 20px;
 }
 .logo{
     font-size: 30px;
-    color:#ffffff ;
+    /* color:#ffffff ; */
+    color:black;
 
 }
 
@@ -24,5 +25,6 @@ nav ul li{
 
 nav ul li a{
     text-decoration: none;
-    color: #ffffff
+    /* color: #ffffff */
+    color:black;
 }

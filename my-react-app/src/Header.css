@@ -1,0 +1,17 @@
+header{
+    background: url('./img/image1')no-repeat;
+    height: 80vh;
+    background-size: cover;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 200px;
+    
+   
+}
+
+header h1{
+    margin: 0;
+    font-size: 4rem;
+    /* color: rgba(212, 183, 54); */
+    color:rgb(00, 00, 00);
+}

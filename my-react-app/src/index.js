@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './Navigation.css';
+import './index.css';
 import Navigation from './Navigation';
 import * as serviceWorker from './serviceWorker';
 

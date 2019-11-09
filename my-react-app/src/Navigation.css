@@ -3,6 +3,7 @@ nav{
     display: flex;
     justify-content: space-between;
     background-color: #1d809f;
+    align-items: center;
 }
 .logo{
     font-size: 30px;

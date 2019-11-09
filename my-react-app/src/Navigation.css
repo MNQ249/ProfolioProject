@@ -6,7 +6,8 @@ nav{
 }
 .logo{
     font-size: 30px;
-    color: blue;
+    color:#ffffff ;
+
 }
 
 nav ul{
@@ -18,6 +19,7 @@ nav ul li{
     margin-right: 8px;
 }
 
-nav ul li{
+nav ul li a{
     text-decoration: none;
+    color: #ffffff
 }

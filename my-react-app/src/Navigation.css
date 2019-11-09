@@ -2,6 +2,7 @@
 nav{
     display: flex;
     justify-content: space-between;
+    background-color: #1d809f;
 }
 .logo{
     font-size: 30px;
@@ -15,4 +16,8 @@ nav ul{
 nav ul li{
     display: inline-block;
     margin-right: 8px;
+}
+
+nav ul li{
+    text-decoration: none;
 }
